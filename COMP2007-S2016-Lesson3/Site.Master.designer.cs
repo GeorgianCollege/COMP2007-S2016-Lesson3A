@@ -31,6 +31,15 @@ namespace COMP2007_S2016_Lesson3 {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
+        /// MainNav control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::COMP2007_S2016_Lesson3.Navbar MainNav;
+        
+        /// <summary>
         /// MainContent control.
         /// </summary>
         /// <remarks>
